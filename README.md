@@ -6,8 +6,6 @@ Example:
 ```js
 const cyrillicify = require('cyrillicify');
 
-const cyrillicify = require('.');
-
 const a = 'abc';
 const b = cyrillicify.all(a);
 
