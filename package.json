@@ -1,0 +1,19 @@
+{
+  "name": "cyrillicify",
+  "version": "0.0.0",
+  "description": "cyrillicify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-cyrillicify.git"
+  },
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-cyrillicify/issues"
+  },
+  "homepage": "https://github.com/rsp/node-cyrillicify#readme"
+}
