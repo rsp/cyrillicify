@@ -1,6 +1,6 @@
 {
   "name": "cyrillicify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "cyrillicify",
   "main": "index.js",
   "scripts": {
